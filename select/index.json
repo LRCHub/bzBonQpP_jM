@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Pinocchio",
+  "base_artist": "Noz.",
+  "createdAt": "2026-02-12T16:46:11.731879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pinocchio",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Pinocchio_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pinocchio (Japanese Ver.)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Pinocchio_(Japanese_Ver.)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pinocchio",
+      "artist": "cupcakKe",
+      "has_synced": true,
+      "path": "select/03_Pinocchio_cupcakKe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pinocchio Story (Freestyle Live From Singapore)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/04_Pinocchio_Story_(Freestyle_Live_From_Singapore)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La ballata di Pinocchio",
+      "artist": "Adriano Celentano",
+      "has_synced": false,
+      "path": "select/05_La_ballata_di_Pinocchio_Adriano_Celentano.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pinocchio",
+      "artist": "Heather Parisi",
+      "has_synced": false,
+      "path": "select/06_Pinocchio_Heather_Parisi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When You Wish Upon A Star - From \"Pinocchio\"",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/07_When_You_Wish_Upon_A_Star_-_From__Pinocchio_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When You Wish Upon A Star (From \"Pinocchio\")",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/08_When_You_Wish_Upon_A_Star_(From__Pinocchio_)_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When You Wish Upon a Star - Pinocchio",
+      "artist": "Cliff Edwards",
+      "has_synced": true,
+      "path": "select/09_When_You_Wish_Upon_a_Star_-_Pinocchio_Cliff_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cliff Edwards  When You Wish Upon a Star [From Walt Disney's ''Pinocchio'']",
+      "artist": "Disney",
+      "has_synced": true,
+      "path": "select/10_Cliff_Edwards_When_You_Wish_Upon_a_Star_[From_Walt_Disney's_''Pinocchio'']_Disney.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pinocchio",
+      "artist": "Brett Domino",
+      "has_synced": false,
+      "path": "select/11_Pinocchio_Brett_Domino.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sure Pinocchio",
+      "artist": "John Hiatt",
+      "has_synced": false,
+      "path": "select/12_Sure_Pinocchio_John_Hiatt.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When You Wish Upon a Star (Pinocchio)",
+      "artist": "Disney Studio Chorus & Cliff Edwards",
+      "has_synced": false,
+      "path": "select/13_When_You_Wish_Upon_a_Star_(Pinocchio)_Disney_Studio_Chorus_&_Cliff_Edwards.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "When You Wish Upon a Star ( Pinocchio)",
+      "artist": "Cliff Edwards/Disney Studio Chorus",
+      "has_synced": false,
+      "path": "select/14_When_You_Wish_Upon_a_Star_(_Pinocchio)_Cliff_Edwards_Disney_Studio_Chorus.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Pinocchio Theory",
+      "artist": "Bootsy Collins",
+      "has_synced": false,
+      "path": "select/15_The_Pinocchio_Theory_Bootsy_Collins.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pinocchio feat.音街ウナ",
+      "artist": "Noz., 音街ウナ",
+      "has_synced": false,
+      "path": "select/pl_01_Pinocchio_feat.音街ウナ_Noz.,_音街ウナ.txt"
+    }
+  ]
+}
